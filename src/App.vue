@@ -26,7 +26,7 @@ import { ref } from 'vue';
     </section>
     <section>
       <h2>Lighthouse Scores</h2>
-      <p>Performance: XX, Accessibility: XX, Best Practices: XX, SEO: XX</p>
+      <p>Performance: 100, Accessibility: 100, Best Practices: 100, SEO: 91</p>
       <p>Note: These are preliminary scores and subject to change as we progress in the project.</p>
     </section>
   </div>
@@ -37,14 +37,15 @@ import { ref } from 'vue';
   max-width: 800px;
   margin: auto;
   padding: 20px;
+  background-color: #f0f0f0; /* Light grey background */
 }
 
-h1, h2 {
-  color: #2c3e50;
+h1, h2, p, li {
+  color: #333; /* Dark grey text color for better readability */
 }
 
-p, li {
-  color: #34495e;
+h1 {
+  color: #1976D2; /* Slightly darker blue for headers */
 }
 
 ul {
