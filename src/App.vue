@@ -25,6 +25,11 @@ import { ref } from 'vue';
       <p>Our goal is to make BLIS more robust, user-friendly, and scalable. We aim to ensure that BLIS can be easily deployed and managed on cloud platforms, specifically AWS EC2, enhancing its accessibility and efficiency for laboratories worldwide.</p>
     </section>
     <section>
+      <h2>Presentation</h2>
+      <p>View our detailed slideshow presentation about the BLIS Enhancement Project:</p>
+      <a href="https://docs.google.com/presentation/d/1aOrrnlOiMtO_LzYY9Atqs4fNKH66W1EoaBbpRdHgyao/edit?usp=sharing" target="_blank">BLIS Enhancement Project Presentation</a>
+    </section>
+    <section>
       <h2>Lighthouse Scores</h2>
       <p>Performance: 100, Accessibility: 100, Best Practices: 100, SEO: 91</p>
       <p>Note: These are preliminary scores and subject to change as we progress in the project.</p>
