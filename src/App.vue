@@ -30,6 +30,11 @@ import { ref } from 'vue';
       <a href="https://docs.google.com/presentation/d/1aOrrnlOiMtO_LzYY9Atqs4fNKH66W1EoaBbpRdHgyao/edit?usp=sharing" target="_blank">BLIS Enhancement Project Presentation</a>
     </section>
     <section>
+      <h2>Presentation Video</h2>
+      <p>Watch our presentation video for an in-depth discussion on the BLIS Enhancement Project:</p>
+      <a href="https://gtvault-my.sharepoint.com/:v:/g/personal/veaswaran3_gatech_edu/EZJQ4Putc_9MhoBDkheT7KUBjnPkk6kYIpcoZMmcUinyPg?referrer=Teams.TEAMS-WEB&referrerScenario=MeetingChicletGetLink.view.view" target="_blank">BLIS Enhancement Project Video</a>
+    </section>
+    <section>
       <h2>Lighthouse Scores</h2>
       <p>Performance: 100, Accessibility: 100, Best Practices: 100, SEO: 91</p>
       <p>Note: These are preliminary scores and subject to change as we progress in the project.</p>
