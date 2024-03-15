@@ -35,6 +35,10 @@ import { ref } from 'vue';
       <a href="https://gtvault-my.sharepoint.com/:v:/g/personal/veaswaran3_gatech_edu/EZJQ4Putc_9MhoBDkheT7KUBjnPkk6kYIpcoZMmcUinyPg?referrer=Teams.TEAMS-WEB&referrerScenario=MeetingChicletGetLink.view.view" target="_blank">BLIS Enhancement Project Video</a>
     </section>
     <section>
+      <h2>Weekly Updates</h2>
+      <p>Last week we added the functionality for customised fields to be exported. Challenges: A team member leaving us. Data issues when testing our new functionality.</p>
+    </section>
+    <section>
       <h2>Lighthouse Scores</h2>
       <p>Performance: 100, Accessibility: 100, Best Practices: 100, SEO: 91</p>
       <p>Note: These are preliminary scores and subject to change as we progress in the project.</p>
