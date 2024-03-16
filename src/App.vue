@@ -39,6 +39,10 @@ import { ref } from 'vue';
       <p>Last week we added the functionality for customised fields to be exported. Challenges: A team member leaving us. Data issues when testing our new functionality.</p>
     </section>
     <section>
+      <h2>Survey Link</h2>
+      <a href="https://docs.google.com/forms/d/e/1FAIpQLSe7oTxBJ9mQbkSNKZKJEh14CUAYXsjnTIzT4wgUyUKAjmdomA/viewform?usp=sharing"/>
+    </section>
+    <section>
       <h2>Lighthouse Scores</h2>
       <p>Performance: 100, Accessibility: 100, Best Practices: 100, SEO: 91</p>
       <p>Note: These are preliminary scores and subject to change as we progress in the project.</p>
