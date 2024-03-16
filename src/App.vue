@@ -44,7 +44,7 @@ import { ref } from 'vue';
     </section>
     <section>
       <h2>Project Link in Cloud</h2>
-      <a href="http://164.92.110.13/login.php"/>
+      <a href="164.92.110.13/login.php"/>
     </section>
     <section>
       <h2>Lighthouse Scores</h2>
