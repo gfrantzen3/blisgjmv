@@ -40,11 +40,11 @@ import { ref } from 'vue';
     </section>
     <section>
       <h2>Survey Link</h2>
-      <a href="https://docs.google.com/forms/d/e/1FAIpQLSe7oTxBJ9mQbkSNKZKJEh14CUAYXsjnTIzT4wgUyUKAjmdomA/viewform?usp=sharing"/>
+      <a href="https://docs.google.com/forms/d/e/1FAIpQLSe7oTxBJ9mQbkSNKZKJEh14CUAYXsjnTIzT4wgUyUKAjmdomA/viewform?usp=sharing">Survey Link</a>
     </section>
     <section>
       <h2>Project Link in Cloud</h2>
-      <a href="164.92.110.13/login.php"/>
+      <a href="164.92.110.13/login.php">Project Link</a>
     </section>
     <section>
       <h2>Lighthouse Scores</h2>
