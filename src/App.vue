@@ -43,6 +43,10 @@ import { ref } from 'vue';
       <a href="https://docs.google.com/forms/d/e/1FAIpQLSe7oTxBJ9mQbkSNKZKJEh14CUAYXsjnTIzT4wgUyUKAjmdomA/viewform?usp=sharing"/>
     </section>
     <section>
+      <h2>Project Link in Cloud</h2>
+      <a href="http://164.92.110.13/login.php"/>
+    </section>
+    <section>
       <h2>Lighthouse Scores</h2>
       <p>Performance: 100, Accessibility: 100, Best Practices: 100, SEO: 91</p>
       <p>Note: These are preliminary scores and subject to change as we progress in the project.</p>
